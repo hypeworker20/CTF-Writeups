@@ -106,11 +106,11 @@ Then we can su to root to retrieve root.txt
 su root
 ```
 
+P.S. YOU CAN ACTUALLY CHEAT SINCE YOU KNOW THAT CAT HAS NOPASSWD and executes as ROOT.  
+
 ```bash
 cat /root/root.txt
 ```
-
-P.S. YOU CAN ACTUALLY CHEAT SINCE YOU KNOW THAT CAT HAS NOPASSWD and executes as ROOT.
 
 When you finished sudo -l, you can just run:
 
