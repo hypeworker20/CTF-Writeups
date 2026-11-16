@@ -1,6 +1,6 @@
 # HNF 2026 Python Reverse Writeup
 
-## 1. Python Revision
+## 1. Python Reversing
 
 **Solution Python:** [Reverse Script Written On Original Python Script](https://github.com/hypeworker20/Python/blob/main/hnf2026_python_rev.py)
 
